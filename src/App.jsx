@@ -323,7 +323,7 @@ export default function App() {
                     href="mailto:saurav.chaudhary70@gmail.com"
                     className="text-blue-600 hover:underline"
                   >
-                    saurav.chaudhary70@gmail.com
+                    sales@nexoraai.in
                   </a>
                 </p>
                 <p className="flex items-center gap-2">
